@@ -1,5 +1,7 @@
 # snowpack-auto-hmr
 
+Sample project to test snowpack plugin - https://github.com/wighawag/snowpack-plugin-hmr-inject
+
 ## Project setup
 
 ```
