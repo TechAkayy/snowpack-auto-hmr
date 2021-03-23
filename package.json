@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "devDependencies": {
+    "snowpack-plugin-hmr-inject": "^0.1.5",
+    "snowpack": "^3.0.1"
+  }
+}
